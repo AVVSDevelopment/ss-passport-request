@@ -8,5 +8,8 @@
     "url": "https://github.com/AVVSDevelopment/ss-passport-request"
   },
   "author": "Vitaly Aminev (AVVS)",
-  "email" : "getstarted@avvs.co"
+  "email" : "getstarted@avvs.co",
+  "peerDependencies" : {
+  	"passport": "*"
+  }  
 }
