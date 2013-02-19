@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Exposes passport request public methods",
   "main": "index.js",  
-  "repository": "",
-  "author": "Vitaly Aminev (AVVS)"
+  "repository": {
+  	"type": "git",
+    "url": "https://github.com/AVVSDevelopment/ss-passport-request",
+  },
+  "author": "Vitaly Aminev (AVVS)",
+  "email" : "getstarted@avvs.co"
 }
